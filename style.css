@@ -45,6 +45,8 @@ h1 {
 p {
   font-size: 2rem;
   margin-top: 50rem;
+  font-family: arial;
+  text-align: center;
 }
 
 button {
